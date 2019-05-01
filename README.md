@@ -1,6 +1,6 @@
 # Generating Swipeable Tinder Profiles using AI: Adversarial & Recurrent Neural Networks in Realistic Content Generation
 
-An implementation of StyleGAN and RNN architectures to generate profile biogrpahical and image information.
+An implementation of StyleGAN and RNN architectures to generate profile biographical and image information.
 
 
 Full tutorial here:
