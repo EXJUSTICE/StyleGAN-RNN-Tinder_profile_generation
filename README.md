@@ -17,5 +17,4 @@ An implementation of StyleGAN and RNN architectures to generate profile biograph
 * RNN text generation notebook
 * StyleGAN image generation notebook
 
-Full tutorial here:
-https://medium.com/gradientcrescent/generating-swipeable-tinder-profiles-using-ai-adversarial-recurrent-neural-networks-in-6531ea4b14e0
+Full tutorial here available in PDF form in repository
